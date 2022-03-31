@@ -16,3 +16,5 @@ CmakeSettings.json
 CombinedSources*.cpp
 .DS_Store
 *~
+
+bin/
